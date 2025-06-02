@@ -1,0 +1,9 @@
+fingerprints.upload$1
+fingerprints.upload
+fingerprints.upload$2
+fingerprints.upload$3
+fingerprints.upload$8
+fingerprints.upload$4
+fingerprints.upload$5
+fingerprints.upload$6
+fingerprints.upload$7

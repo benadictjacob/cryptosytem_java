@@ -1,0 +1,1 @@
+gui.legend.LabelledColor

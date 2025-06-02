@@ -1,0 +1,3 @@
+fingerprints.FingerPrint$1coreInfos
+fingerprints.FingerPrint$direction
+fingerprints.FingerPrint
